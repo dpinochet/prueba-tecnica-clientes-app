@@ -69,3 +69,8 @@ ng test
 - `should have as title 'Hello, ClientesApp'`: Verifica que el título del componente principal es correcto.
 - `should render title`: Verifica que el título se renderiza correctamente en el DOM.
 - `should render the heading "Prueba Técnica"`: Verifica que el encabezado "Prueba Técnica" se renderiza correctamente.
+
+## Muestra operativa
+<img width="1169" alt="Captura de pantalla 2024-07-25 a la(s) 4 08 24 p  m" src="https://github.com/user-attachments/assets/232a7263-9cbc-4cb1-bc58-351db7c05fb8">
+
+
